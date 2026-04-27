@@ -6,7 +6,7 @@ This repository contains a comprehensive data analysis project examining consume
 By analyzing non-Bellabeat smart device data (Fitbit), this case study uncovers fitness, sleep, and lifestyle trends, applying them to the Bellabeat App to provide actionable, data-driven business recommendations.
 
 > **Note:** The full, interactive analysis with code and visualizations is hosted on Kaggle.  
-> 🔗 **[View the Full Interactive Notebook on Kaggle Here](INSERT_KAGGLE_LINK_HERE)**
+> 🔗 **[View the Full Interactive Notebook on Kaggle Here](https://www.kaggle.com/code/austinbynumahs10/bellabeat-fitbit-case-study)**
 
 ## 🛠️ Tools & Technologies Used
 * **Language:** R
